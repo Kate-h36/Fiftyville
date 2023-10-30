@@ -15,7 +15,7 @@ This was created as solution for Week 7 Problem Set CS50 Course by Harvard Unive
 
   ## Overview
 
-The goal of the Mystery Solver Program is to aid in solving a mysterious case by using SQL queries on a provided database. The program maintains a log of SQL queries in the `log.sql `  file, tracking the investigative process step by step. Upon conclusion, the identified culprit, their escape city, and accomplice are recorded in the `answers.txt` file.
+The goal of Fiftyville is to aid in solving a mysterious case by using SQL queries on a provided database. The program maintains a log of SQL queries in the `log.sql `  file, tracking the investigative process step by step. Upon conclusion, the identified culprit, their escape city, and accomplice are recorded in the `answers.txt` file.
 
 ## Files Included
 
