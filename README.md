@@ -27,17 +27,16 @@ The goal of the Mystery Solver Program is to aid in solving a mysterious case by
 
 To use the Mystery Solver Program, follow these steps:
 
-1.Clone the repository to your local environment.
+1. Clone the repository to your local environment.
 
-2.Ensure you have access to a SQL database containing the necessary data for the investigation.
+2. Ensure you have access to a SQL database containing the necessary data for the investigation.
 
-3.Use a SQL client or environment to execute the queries provided in the log.sql file.
+3. Use a SQL client or environment to execute the queries provided in the log.sql file.
 
-4.Upon identifying the perpetrator, update the information in the answers.txt file as directed.
+4. Upon identifying the perpetrator, update the information in the answers.txt file as directed.
 
 ## Instructions
 
 * `log.sql`: Use this file to log your SQL queries. Comment each query to explain its purpose and the information sought.
+  
 * `answers.txt`: Upon solving the mystery, fill in the name of the thief, the city they escaped to, and the name of their accomplice without altering any existing text.
-
-
