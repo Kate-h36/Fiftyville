@@ -25,7 +25,7 @@ The goal of Fiftyville is to aid in solving a mysterious case by using SQL queri
 
 ## Usage
 
-To use the Mystery Solver Program, follow these steps:
+To use the Fiftyville, follow these steps:
 
 1. Clone the repository to your local environment.
 
